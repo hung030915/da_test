@@ -1,0 +1,1186 @@
+[
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_home.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_home.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_phanhoi.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_phanhoi.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_status.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_status.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_bottom_sheet_comment.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/bottom_sheet_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_dangsanpham.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/dangsanpham.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_sale.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/sale.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_outstanding.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_outstanding.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_timkiem2.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/timkiem2.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_cumtom_bg_red.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/cumtom_bg_red.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_lnnn.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_lnnn.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_img_sp.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_img_sp.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bannerstore.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bannerstore.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_avatar1.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/avatar1.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/raw_loading.json.flat",
+        "source": "com.example.s_shop.app-main-44:/raw/loading.json"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_product_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/product_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_liner.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_liner.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_default_red.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_default_red.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_revenue.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_revenue.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_a2a.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/a2a.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_update_avt_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_update_avt_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_chat.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_order_success.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_order_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_forgot_pass.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/forgot_pass.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_laptop_mac_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_laptop_mac_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_edit_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_edit_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_yes.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_yes.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_homepage.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/homepage.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_primary_press.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_primary_press.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_pay.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_pay.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_fb.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/fb.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_dondathang.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/dondathang.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_ln_iteam_product_option.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_ln_iteam_product_option.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_loading.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_loading.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_dialog_create_option_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_create_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_sanphamprodcut.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/sanphamprodcut.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_dialog_feedback.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_feedback.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_favorites.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_favorites.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_anhdt1.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/anhdt1.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_send_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_send_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_header.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_header.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_register.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/register.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_iteamvoucher.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/iteamvoucher.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_discount.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_discount.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_boder.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_boder.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_ll.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_ll.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_img_option_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_img_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_home.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_detail_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/detail_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_button_rectangular.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_button_rectangular.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_chat_screen.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_chat_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_muaangay.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_muaangay.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/anim_slidle_in_right.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/anim/slidle_in_right.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_dialig_option_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialig_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_iteam_cart.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_cart.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_create_product_my_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_create_product_my_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_img.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_plus.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_dieukhoan.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/dieukhoan.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_icon.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_icon.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_pass.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/pass.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_my_store_screen.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_my_store_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_white_gray_notborder.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_white_gray_notborder.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_customtv.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/customtv.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_iteam_category.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_order_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_delivered.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_delivered.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_iteamgiamgia.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/iteamgiamgia.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_star_border_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_star_border_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_voucher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_border_top.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_border_top.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_messg.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/messg.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_order_product_screen.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/order_product_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_detail_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_detail_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_outline_settings_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/outline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_profile_user.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_profile_user.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_cart.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_outline_phone_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/outline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_deleteoption.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/deleteoption.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_mayanh.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/mayanh.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_loading.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_loading.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_border_gray.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_border_gray.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_dialog_detail_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_detail_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_cart_pay.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_cart_pay.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_dropdown.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/dropdown.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_send_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_send_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_img_product.jpg.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/img_product.jpg"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_check_box_outline_blank_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_check_box_outline_blank_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_tt.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_tt.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_ln_thanhtoan.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_ln_thanhtoan.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/anim_slidle_out_left.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/anim/slidle_out_left.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_favorite.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bannerstoreee.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bannerstoreee.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_success.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/success.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_launcher.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_linear.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_linear.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_phone_iphone_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_comment.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_boder_gray.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_boder_gray.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_tiemkiem.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/tiemkiem.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_sao.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/sao.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_iteam_product_bestseller.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_product_bestseller.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_start_register_member_seller.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/start_register_member_seller.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_profile.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_find_product.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/find_product.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_cross.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/cross.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_yeuthich.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/yeuthich.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_warehouse.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_warehouse.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_home_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_home_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_security_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_delivery.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_delivery.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_people_alt_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_people_alt_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_test.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/test.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_message_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_message_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_arrow_back_24_black.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_arrow_back_24_black.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_launcher_round.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_shopping_cart_primary.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_shopping_cart_primary.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_xuatkho.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/xuatkho.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_timkiem1.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/timkiem1.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_vouhcer.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/vouhcer.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_thongbao.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/thongbao.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_layout_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_layout_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_detail_bill.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_detail_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_location.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/location.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.s_shop.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_giohang.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/giohang.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_order.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_tvv.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_tvv.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_fragement_page_selling.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_fragement_page_selling.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_soluong.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_soluong.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_bill.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_loading.jpeg.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/loading.jpeg"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_menudots.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/menudots.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_iteam_thongke.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_thongke.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_notification.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_cancelled_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_cancelled_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_imganhdt.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/imganhdt.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_find_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/find_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_verifi_pass.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/verifi_pass.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_buy.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/buy.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_white_gray_cancle.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_white_gray_cancle.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_imgupdate.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/imgupdate.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_receive_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_receive_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_spinner_selected.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_spinner_selected.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_select_color.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/select_color.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_btn_profile.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_btn_profile.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_comment.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_show_all_product_by_category.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_show_all_product_by_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_dialog_logout.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_logout.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_credit_card_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_credit_card_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/raw_icon_loading.json.flat",
+        "source": "com.example.s_shop.app-main-44:/raw/icon_loading.json"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_anhvudep.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/anhvudep.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_register_member_seller.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/register_member_seller.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_warning_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_warning_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_backs.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/backs.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_taobanner.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/taobanner.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/menu_menu.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_search.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/search.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_luu.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_luu.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_button_rectangular_border.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_button_rectangular_border.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_mes.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/mes.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_backkk.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/backkk.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_login_fb.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_login_fb.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_dialog_update_option_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_update_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/anim_slidle_in_left.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/anim/slidle_in_left.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_dialog.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_banner.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/banner.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_white_border_gray.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_white_border_gray.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_create_voucher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_create_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_statistical.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_statistical.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_text_red_press.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_text_red_press.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_drop_down.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_drop_down.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_cancelled.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_cancelled.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_gg.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/gg.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_person.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/person.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_spinner.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_spinner.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_edt_user.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_edt_user.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_theodoi.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_theodoi.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_tym.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/tym.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_chat_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_chat_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_product_sale.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_product_sale.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_text_primary_press.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_text_primary_press.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_add.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_no.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_no.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_create_image.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_create_image.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_order.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_x.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/x.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_iteam_option_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_send.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_history_buy.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_history_buy.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_order_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_pay.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/pay.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_hoadon.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/hoadon.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_timkiem.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_timkiem.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_waiting_delivery.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_waiting_delivery.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_update_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_update_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_tva.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_tva.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_find.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/find.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baove.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baove.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_receive_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_receive_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_img.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_img.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_anhstore.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/anhstore.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_waiting_delivery_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_waiting_delivery_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_sanpham.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/sanpham.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_notification.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_doanhthu.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/doanhthu.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_ed_send_message.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_ed_send_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_header_nav.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_header_nav.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_profile_2.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/profile_2.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_bg_custom_number.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/bg_custom_number.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_shopping_cart_white.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_shopping_cart_white.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_edittext.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_dialog_delete_option.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_delete_option.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_delivered_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_delivered_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_check.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/check.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_white_gray.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_white_gray.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_product_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_product_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_detail_prodcut.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_detail_prodcut.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_product_by_category.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_product_by_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_aaaa.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/aaaa.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_update_infor_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_update_infor_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_add.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_filter.jpg.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/filter.jpg"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_shop.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/shop.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_splash.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/splash.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_update_product.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_update_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_lnddialog.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/lnddialog.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_product_find.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_product_find.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_diachi.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/diachi.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_product_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_dialog_delete_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_delete_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/anim_slidle_out_right.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/anim/slidle_out_right.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_voucher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_login.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_chat.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_chat.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.s_shop.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_salee.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/salee.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_pluuss.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/pluuss.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_storefront_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_storefront_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_red_cancle.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_red_cancle.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_logout.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_logout.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_iteam_voucher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_profile.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_home.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_button.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_item_chat.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_chat.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_backss.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/backss.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_tao.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/tao.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_call_to_action_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_call_to_action_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_dau3cham.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/dau3cham.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_bill.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_location_on_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_reset_pass_success.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/reset_pass_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_layout_iteam_update_option.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_update_option.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_create_store_success.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_create_store_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_logo.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_avartar_user.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_avartar_user.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_credit_card_24_xanh.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_credit_card_24_xanh.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_imgngaysinh.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/imgngaysinh.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ic_clock.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_bg_white_gray_ok.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_bg_white_gray_ok.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_warning_24_red.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_warning_24_red.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_confirm_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_confirm_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/menu_menu_nav.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/menu/menu_nav.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_ngoisao.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/ngoisao.png"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_register_success.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_register_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_store.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_product_warehouse.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product_warehouse.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_item_voucher.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/item_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_activity_add_address.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_add_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_baseline_dehaze_24.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/baseline_dehaze_24.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_reset_password.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/reset_password.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_iteam_selected.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_selected.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_custom_btn_login_gg.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/custom_btn_login_gg.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/layout_fragment_page_wait_confirm.xml.flat",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_wait_confirm.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-merged_res-42:/drawable_banner2.png.flat",
+        "source": "com.example.s_shop.app-main-44:/drawable/banner2.png"
+    }
+]

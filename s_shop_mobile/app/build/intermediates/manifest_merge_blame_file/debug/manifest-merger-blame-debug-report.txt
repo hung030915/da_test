@@ -1,0 +1,429 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.s_shop"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:7:5-77
+13-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:9:5-80
+15-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:9:22-77
+16
+17    <queries>
+17-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+18
+19        <!-- Query Camera Packages -->
+20        <intent>
+20-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+21            <action android:name="android.media.action.IMAGE_CAPTURE" />
+21-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:13:13-73
+21-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:13:21-70
+22        </intent>
+23        <!-- Query Open Document -->
+24        <intent>
+24-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+25            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+25-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:17:13-79
+25-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:17:21-76
+26        </intent>
+27    </queries>
+28
+29    <permission
+29-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+30        android:name="com.example.s_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+30-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+31        android:protectionLevel="signature" />
+31-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+32
+33    <uses-permission android:name="com.example.s_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+33-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+33-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+34
+35    <application
+35-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:11:5-119:19
+36        android:name="com.example.s_shop.ultil.MyApplication"
+36-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:12:9-44
+37        android:allowBackup="true"
+37-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:13:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+39        android:dataExtractionRules="@xml/data_extraction_rules"
+39-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:14:9-65
+40        android:debuggable="true"
+41        android:enableOnBackInvokedCallback="true"
+41-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:15:9-51
+42        android:extractNativeLibs="false"
+43        android:fullBackupContent="@xml/backup_rules"
+43-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:16:9-54
+44        android:icon="@mipmap/ic_launcher"
+44-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:17:9-43
+45        android:label="@string/app_name"
+45-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:18:9-41
+46        android:roundIcon="@mipmap/ic_launcher_round"
+46-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:19:9-54
+47        android:supportsRtl="true"
+47-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:20:9-35
+48        android:testOnly="true"
+49        android:theme="@style/Theme.HN2025Onlineshop"
+49-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:21:9-54
+50        android:usesCleartextTraffic="true" >
+50-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:22:9-44
+51        <activity
+51-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:24:9-26:40
+52            android:name="com.example.s_shop.view.product_screen.CommentActivity"
+52-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:25:13-64
+53            android:exported="false" />
+53-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:26:13-37
+54        <activity
+54-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:27:9-29:40
+55            android:name="com.example.s_shop.view.fragment.ShowAllProductByCategoryActivity"
+55-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:28:13-75
+56            android:exported="false" />
+56-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:29:13-37
+57        <activity android:name="com.example.s_shop.view.my_store.UpdateProductActivity" />
+57-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:30:9-73
+57-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:30:19-70
+58        <!-- <activity -->
+59        <!-- android:name=".view.product_screen.fragment_comment.BottomSheetComment" -->
+60        <!-- android:exported="false" /> -->
+61        <activity
+61-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:34:9-36:40
+62            android:name="com.example.s_shop.view.chat_message.MessageActivity"
+62-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:35:13-62
+63            android:exported="false" />
+63-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:36:13-37
+64        <activity
+64-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:37:9-39:40
+65            android:name="com.example.s_shop.view.chat_message.ChatActivity"
+65-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:38:13-59
+66            android:exported="false" />
+66-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:39:13-37
+67        <activity
+67-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:40:9-42:40
+68            android:name="com.example.s_shop.view.buy_product.UpdateAddressActivity"
+68-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:41:13-67
+69            android:exported="false" />
+69-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:42:13-37
+70        <activity
+70-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:43:9-45:40
+71            android:name="com.example.s_shop.view.success_screen.OrderSuccessActivity"
+71-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:44:13-69
+72            android:exported="false" />
+72-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:45:13-37
+73        <activity
+73-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:46:9-48:40
+74            android:name="com.example.s_shop.view.buy_product.AddAddressActivity"
+74-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:47:13-64
+75            android:exported="false" />
+75-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:48:13-37
+76        <activity
+76-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:49:9-51:40
+77            android:name="com.example.s_shop.view.buy_product.AddressActivity"
+77-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:50:13-61
+78            android:exported="false" />
+78-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:51:13-37
+79        <activity
+79-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:52:9-54:40
+80            android:name="com.example.s_shop.view.buy_product.PayActivity"
+80-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:53:13-57
+81            android:exported="false" />
+81-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:54:13-37
+82        <activity
+82-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:55:9-57:40
+83            android:name="com.example.s_shop.view.success_screen.CreateStoreSuccessActivity"
+83-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:56:13-75
+84            android:exported="false" />
+84-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:57:13-37
+85        <activity
+85-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:58:9-60:39
+86            android:name="com.example.s_shop.view.success_screen.RegisterSuccess"
+86-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:59:13-64
+87            android:exported="true" />
+87-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:60:13-36
+88        <activity
+88-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:61:9-63:40
+89            android:name="com.example.s_shop.view.profile_screen.ProfileUserScreen"
+89-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:62:13-66
+90            android:exported="false" />
+90-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:63:13-37
+91        <activity android:name="com.example.s_shop.view.voucher.VoucherScreen" />
+91-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:64:9-64
+91-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:64:19-61
+92        <activity android:name="com.example.s_shop.view.my_store.MyStoreScreen" />
+92-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:65:9-65
+92-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:65:19-62
+93        <activity
+93-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:66:9-68:39
+94            android:name="com.example.s_shop.view.cart_screen.CartActivity"
+94-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:67:13-58
+95            android:exported="true" />
+95-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:68:13-36
+96        <activity
+96-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:69:9-71:39
+97            android:name="com.example.s_shop.view.find_product.FindProduct"
+97-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:70:13-58
+98            android:exported="true" />
+98-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:71:13-36
+99        <activity
+99-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:72:9-74:39
+100            android:name="com.example.s_shop.view.home_screen.MainActivity"
+100-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:73:13-58
+101            android:exported="true" />
+101-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:74:13-36
+102        <activity
+102-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:75:9-77:39
+103            android:name="com.example.s_shop.view.login.Login"
+103-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:76:13-45
+104            android:exported="true" />
+104-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:77:13-36
+105        <activity
+105-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:78:9-80:39
+106            android:name="com.example.s_shop.view.login.Register"
+106-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:79:13-48
+107            android:exported="true" />
+107-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:80:13-36
+108        <activity
+108-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:81:9-83:39
+109            android:name="com.example.s_shop.view.login.ResetPassWord"
+109-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:82:13-53
+110            android:exported="true" />
+110-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:83:13-36
+111        <activity
+111-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:84:9-86:39
+112            android:name="com.example.s_shop.view.login.ResetPassWordSuccess"
+112-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:85:13-60
+113            android:exported="true" />
+113-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:86:13-36
+114        <activity
+114-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:87:9-89:39
+115            android:name="com.example.s_shop.view.login.VerifiPassWord"
+115-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:88:13-54
+116            android:exported="true" />
+116-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:89:13-36
+117        <activity
+117-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:90:9-92:39
+118            android:name="com.example.s_shop.view.login.ForgotPassWord"
+118-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:91:13-54
+119            android:exported="true" />
+119-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:92:13-36
+120        <activity
+120-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:93:9-96:55
+121            android:name="com.example.s_shop.view.product_screen.DetailProduct"
+121-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:94:13-62
+122            android:exported="true"
+122-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:95:13-36
+123            android:windowSoftInputMode="adjustPan" />
+123-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:96:13-52
+124        <activity
+124-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:97:9-99:39
+125            android:name="com.example.s_shop.view.login.RegisterMemberSeller"
+125-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:98:13-60
+126            android:exported="true" />
+126-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:99:13-36
+127        <activity
+127-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:100:9-102:39
+128            android:name="com.example.s_shop.view.profile_screen.OrderProductScreen"
+128-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:101:13-67
+129            android:exported="true" />
+129-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:102:13-36
+130        <activity android:name="com.example.s_shop.view.my_store.FragmentCreateProductMyStore" />
+130-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:103:9-80
+130-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:103:19-77
+131        <activity
+131-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:104:9-106:39
+132            android:name="com.example.s_shop.view.infor_shop.InforShop"
+132-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:105:13-54
+133            android:exported="true" />
+133-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:106:13-36
+134        <activity
+134-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:107:9-109:39
+135            android:name="com.example.s_shop.view.my_store.Bill.DetailBill"
+135-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:108:13-58
+136            android:exported="true" />
+136-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:109:13-36
+137        <activity
+137-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:110:9-118:20
+138            android:name="com.example.s_shop.view.login.Splash"
+138-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:111:13-46
+139            android:exported="true" >
+139-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:112:13-36
+140            <intent-filter>
+140-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:113:13-117:29
+141                <action android:name="android.intent.action.MAIN" />
+141-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:114:17-69
+141-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:114:25-66
+142
+143                <category android:name="android.intent.category.LAUNCHER" />
+143-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:116:17-77
+143-->C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:116:27-74
+144            </intent-filter>
+145        </activity>
+146        <activity
+146-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+147            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+147-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:23:13-81
+148            android:screenOrientation="unspecified"
+148-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:24:13-52
+149            android:theme="@style/Theme.Transparent.ImagePicker" />
+149-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:25:13-65
+150        <activity
+150-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+151            android:name="com.yalantis.ucrop.UCropActivity"
+151-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:27:13-60
+152            android:screenOrientation="portrait"
+152-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:28:13-49
+153            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+153-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:29:13-69
+154
+155        <provider
+155-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+156            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+156-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:32:13-85
+157            android:authorities="com.example.s_shop.imagepicker.provider"
+157-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:33:13-72
+158            android:exported="false"
+158-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:34:13-37
+159            android:grantUriPermissions="true" >
+159-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:35:13-47
+160            <meta-data
+160-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+161                android:name="android.support.FILE_PROVIDER_PATHS"
+161-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:37:17-67
+162                android:resource="@xml/image_picker_provider_paths" />
+162-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:38:17-68
+163        </provider>
+164        <provider
+164-->[com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+165            android:name="com.squareup.picasso.PicassoProvider"
+165-->[com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+166            android:authorities="com.example.s_shop.com.squareup.picasso"
+166-->[com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+167            android:exported="false" />
+167-->[com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+168
+169        <activity
+169-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+170            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+170-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+171            android:excludeFromRecents="true"
+171-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+172            android:exported="false"
+172-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+173            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+173-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+174        <!--
+175            Service handling Google Sign-In user revocation. For apps that do not integrate with
+176            Google Sign-In, this service will never be started.
+177        -->
+178        <service
+178-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+179            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+179-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+180            android:exported="true"
+180-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+181            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+181-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+182            android:visibleToInstantApps="true" />
+182-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+183
+184        <activity
+184-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+185            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+185-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+186            android:exported="false"
+186-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+187            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+187-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+188
+189        <meta-data
+189-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+190            android:name="com.google.android.gms.version"
+190-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+191            android:value="@integer/google_play_services_version" />
+191-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+192
+193        <provider
+193-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+194            android:name="androidx.startup.InitializationProvider"
+194-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+195            android:authorities="com.example.s_shop.androidx-startup"
+195-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+196            android:exported="false" >
+196-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+197            <meta-data
+197-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+198                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+198-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+199                android:value="androidx.startup" />
+199-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+200            <meta-data
+200-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+201                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+201-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+202                android:value="androidx.startup" />
+202-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+203            <meta-data
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+204                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+204-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+205                android:value="androidx.startup" />
+205-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+206        </provider>
+207
+208        <receiver
+208-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+209            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+210            android:directBootAware="false"
+210-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+211            android:enabled="true"
+211-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+212            android:exported="true"
+212-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+213            android:permission="android.permission.DUMP" >
+213-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+214            <intent-filter>
+214-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+215                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+216            </intent-filter>
+217            <intent-filter>
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+218                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+219            </intent-filter>
+220            <intent-filter>
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+221                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+222            </intent-filter>
+223            <intent-filter>
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+224                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+225            </intent-filter>
+226        </receiver>
+227    </application>
+228
+229</manifest>
