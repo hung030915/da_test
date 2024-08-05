@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/login.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_delivered_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_delivered_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_header_nav.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_header_nav.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_notification.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_chat.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/order_product_screen.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/order_product_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_message.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_order.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_iteam_option_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/reset_pass_success.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/reset_pass_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/dialog_create_option_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_create_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_order_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_update_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_update_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_voucher.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_product_by_category.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_product_by_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/forgot_pass.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/forgot_pass.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_warehouse.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_warehouse.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_dialog_feedback.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_feedback.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_cart_pay.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_cart_pay.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/find_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/find_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_pay.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_pay.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_favorite.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_product_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_product_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/register_member_seller.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/register_member_seller.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_iteam_update_option.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_update_option.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/bottom_sheet_comment.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/bottom_sheet_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_favorites.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_favorites.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_create_store_success.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_create_store_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_spinner_selected.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_spinner_selected.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/register.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/register.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_add_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_add_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_iteam_thongke.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_thongke.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_fragement_page_selling.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_fragement_page_selling.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_cancelled.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_cancelled.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_send_message.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_send_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/verifi_pass.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/verifi_pass.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/iteam_category.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_dialig_option_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialig_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_home.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_home.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_waiting_delivery.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_waiting_delivery.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_wait_confirm.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_wait_confirm.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/detail_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/detail_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_profile.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_discount.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_discount.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_delivered.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_delivered.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_home_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_home_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_product_sale.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_product_sale.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_product_warehouse.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product_warehouse.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_cancelled_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_cancelled_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_order_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_order_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/iteam_voucher.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_dialog_detail_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_detail_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_profile_user.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_profile_user.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_spinner.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_spinner.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_bill.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_loading.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_loading.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_comment.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_edit_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_edit_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_dialog_delete_option.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_delete_option.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/dialog_update_option_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_update_option_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/start_register_member_seller.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/start_register_member_seller.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/reset_password.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/reset_password.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_my_store_screen.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_my_store_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_comment.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_comment.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_history_buy.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_history_buy.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/iteam_selected.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/iteam_selected.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/dialog_delete_address.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/dialog_delete_address.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_order.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_product_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_product_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_update_product.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_update_product.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_waiting_delivery_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_waiting_delivery_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_product_find.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_product_find.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_notification.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_statistical.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_statistical.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_chat.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_chat.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_outstanding.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_outstanding.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_create_voucher.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_create_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_register_success.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_register_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_order_success.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_order_success.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_show_all_product_by_category.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_show_all_product_by_category.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_dialog_logout.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_dialog_logout.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_chat_screen.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_chat_screen.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_page_confirm_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_page_confirm_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_update_avt_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_update_avt_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/activity_cart.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_revenue.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_revenue.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/item_voucher.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/item_voucher.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_detail_bill.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_detail_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_create_product_my_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_create_product_my_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_update_infor_store.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_update_infor_store.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_iteam_cart.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_cart.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_item_receive_message.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_item_receive_message.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_bill.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_bill.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/splash.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/splash.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/fragment_home.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.s_shop.app-mergeDebugResources-41:/layout/layout_iteam_product_bestseller.xml",
+        "source": "com.example.s_shop.app-main-44:/layout/layout_iteam_product_bestseller.xml"
+    }
+]

@@ -1,0 +1,672 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\hung\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] C:\Users\hung\.gradle\caches\transforms-3\2be3cb4c62193d45506768ea2a44c42b\transformed\ImageSlideshow-0.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\hung\.gradle\caches\transforms-3\ad578f44320007c8505e39a0766bd63a\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hung\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\hung\.gradle\caches\transforms-3\c4c6a0d4303f521a532a7d24ef931371\transformed\pinview-1.4.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:5.2.0] C:\Users\hung\.gradle\caches\transforms-3\9f59978e854da6d16577b860f977a62c\transformed\lottie-5.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.etebarian:meow-bottom-navigation:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\d4d30df06857d9553e97fd97a3ccde43\transformed\meow-bottom-navigation-1.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\hung\.gradle\caches\transforms-3\517d60c0fb3e6481b64acfeb4a267fe8\transformed\ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\460796d9fef243d11bd257f5b2a553f7\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\05f36b054b935b3d051f0fabdf221cf7\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\hung\.gradle\caches\transforms-3\e37a8f7677b4c11aa88054799c5c6132\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\hung\.gradle\caches\transforms-3\d1be3660a02f9e061bfbc14882c8100d\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\74400c95b75097d36660ef36f063ef7a\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\7def779e53ee2f3f688cb1995e3c6945\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hung\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\5c6e8cac6a80d68180739ef5b115acf0\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2f6ed9795331cc1ede1f9870a971d030\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hung\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\8517b4ea53ada44039970e3a84c738d2\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\1df862b06ec1c57b89a2b314abbf0365\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\21d6fe485a5a07137464423398f2002e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\69796f31709176c5c8b8b3d7af3c1100\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\b4d43cd5969b438d7092c10f7975c44d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hung\.gradle\caches\transforms-3\44d934f799610cf9ccecb601de0afcd3\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\6f956cc784c35aba29b025c91ce524df\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\68d33b01b2d07ab9b78ce0a2bd4e8463\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\hung\.gradle\caches\transforms-3\5f2325a1701118ab9aa8da9b0206e09d\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hung\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\20a644b62baf785bb02e4625e75762e3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\hung\.gradle\caches\transforms-3\07e7f0122cc3106fdaf176d2ba87eda4\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+	package
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:1-121:12
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:11:5-119:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\hung\.gradle\caches\transforms-3\ad578f44320007c8505e39a0766bd63a\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\hung\.gradle\caches\transforms-3\ad578f44320007c8505e39a0766bd63a\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hung\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hung\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.2.0] C:\Users\hung\.gradle\caches\transforms-3\9f59978e854da6d16577b860f977a62c\transformed\lottie-5.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.2.0] C:\Users\hung\.gradle\caches\transforms-3\9f59978e854da6d16577b860f977a62c\transformed\lottie-5.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\hung\.gradle\caches\transforms-3\d1be3660a02f9e061bfbc14882c8100d\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\hung\.gradle\caches\transforms-3\d1be3660a02f9e061bfbc14882c8100d\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\74400c95b75097d36660ef36f063ef7a\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\74400c95b75097d36660ef36f063ef7a\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hung\.gradle\caches\transforms-3\44d934f799610cf9ccecb601de0afcd3\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hung\.gradle\caches\transforms-3\44d934f799610cf9ccecb601de0afcd3\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:16:9-54
+	android:roundIcon
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:19:9-54
+	tools:targetApi
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:23:9-29
+	android:icon
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:21:9-54
+	android:enableOnBackInvokedCallback
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:15:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:14:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:12:9-44
+activity#com.example.s_shop.view.product_screen.CommentActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:25:13-64
+activity#com.example.s_shop.view.fragment.ShowAllProductByCategoryActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:28:13-75
+activity#com.example.s_shop.view.my_store.UpdateProductActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:30:19-70
+activity#com.example.s_shop.view.chat_message.MessageActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:35:13-62
+activity#com.example.s_shop.view.chat_message.ChatActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:38:13-59
+activity#com.example.s_shop.view.buy_product.UpdateAddressActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:41:13-67
+activity#com.example.s_shop.view.success_screen.OrderSuccessActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:44:13-69
+activity#com.example.s_shop.view.buy_product.AddAddressActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:47:13-64
+activity#com.example.s_shop.view.buy_product.AddressActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:49:9-51:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:50:13-61
+activity#com.example.s_shop.view.buy_product.PayActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:53:13-57
+activity#com.example.s_shop.view.success_screen.CreateStoreSuccessActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:56:13-75
+activity#com.example.s_shop.view.success_screen.RegisterSuccess
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:58:9-60:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:59:13-64
+activity#com.example.s_shop.view.profile_screen.ProfileUserScreen
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:62:13-66
+activity#com.example.s_shop.view.voucher.VoucherScreen
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:64:9-64
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:64:19-61
+activity#com.example.s_shop.view.my_store.MyStoreScreen
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:65:9-65
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:65:19-62
+activity#com.example.s_shop.view.cart_screen.CartActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:66:9-68:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:67:13-58
+activity#com.example.s_shop.view.find_product.FindProduct
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:69:9-71:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:70:13-58
+activity#com.example.s_shop.view.home_screen.MainActivity
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:72:9-74:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:74:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:73:13-58
+activity#com.example.s_shop.view.login.Login
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:75:9-77:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:77:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:76:13-45
+activity#com.example.s_shop.view.login.Register
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:78:9-80:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:79:13-48
+activity#com.example.s_shop.view.login.ResetPassWord
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:81:9-83:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:83:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:82:13-53
+activity#com.example.s_shop.view.login.ResetPassWordSuccess
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:84:9-86:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:86:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:85:13-60
+activity#com.example.s_shop.view.login.VerifiPassWord
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:87:9-89:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:88:13-54
+activity#com.example.s_shop.view.login.ForgotPassWord
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:90:9-92:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:91:13-54
+activity#com.example.s_shop.view.product_screen.DetailProduct
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:93:9-96:55
+	android:windowSoftInputMode
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:96:13-52
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:95:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:94:13-62
+activity#com.example.s_shop.view.login.RegisterMemberSeller
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:97:9-99:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:99:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:98:13-60
+activity#com.example.s_shop.view.profile_screen.OrderProductScreen
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:100:9-102:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:102:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:101:13-67
+activity#com.example.s_shop.view.my_store.FragmentCreateProductMyStore
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:103:9-80
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:103:19-77
+activity#com.example.s_shop.view.infor_shop.InforShop
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:104:9-106:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:105:13-54
+activity#com.example.s_shop.view.my_store.Bill.DetailBill
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:107:9-109:39
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:108:13-58
+activity#com.example.s_shop.view.login.Splash
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:110:9-118:20
+	android:exported
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:112:13-36
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:111:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:113:13-117:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:114:17-69
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:114:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:116:17-77
+	android:name
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml:116:27-74
+uses-sdk
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\hung\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\hung\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] C:\Users\hung\.gradle\caches\transforms-3\2be3cb4c62193d45506768ea2a44c42b\transformed\ImageSlideshow-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] C:\Users\hung\.gradle\caches\transforms-3\2be3cb4c62193d45506768ea2a44c42b\transformed\ImageSlideshow-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\hung\.gradle\caches\transforms-3\ad578f44320007c8505e39a0766bd63a\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\hung\.gradle\caches\transforms-3\ad578f44320007c8505e39a0766bd63a\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hung\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hung\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\hung\.gradle\caches\transforms-3\c4c6a0d4303f521a532a7d24ef931371\transformed\pinview-1.4.4\AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\hung\.gradle\caches\transforms-3\c4c6a0d4303f521a532a7d24ef931371\transformed\pinview-1.4.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie:5.2.0] C:\Users\hung\.gradle\caches\transforms-3\9f59978e854da6d16577b860f977a62c\transformed\lottie-5.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.2.0] C:\Users\hung\.gradle\caches\transforms-3\9f59978e854da6d16577b860f977a62c\transformed\lottie-5.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.etebarian:meow-bottom-navigation:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\d4d30df06857d9553e97fd97a3ccde43\transformed\meow-bottom-navigation-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.etebarian:meow-bottom-navigation:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\d4d30df06857d9553e97fd97a3ccde43\transformed\meow-bottom-navigation-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\hung\.gradle\caches\transforms-3\517d60c0fb3e6481b64acfeb4a267fe8\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\hung\.gradle\caches\transforms-3\517d60c0fb3e6481b64acfeb4a267fe8\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\hung\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\460796d9fef243d11bd257f5b2a553f7\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\460796d9fef243d11bd257f5b2a553f7\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\05f36b054b935b3d051f0fabdf221cf7\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\05f36b054b935b3d051f0fabdf221cf7\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\hung\.gradle\caches\transforms-3\e37a8f7677b4c11aa88054799c5c6132\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\hung\.gradle\caches\transforms-3\e37a8f7677b4c11aa88054799c5c6132\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\hung\.gradle\caches\transforms-3\d1be3660a02f9e061bfbc14882c8100d\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\hung\.gradle\caches\transforms-3\d1be3660a02f9e061bfbc14882c8100d\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\74400c95b75097d36660ef36f063ef7a\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\74400c95b75097d36660ef36f063ef7a\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\7def779e53ee2f3f688cb1995e3c6945\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\7def779e53ee2f3f688cb1995e3c6945\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hung\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\hung\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\5c6e8cac6a80d68180739ef5b115acf0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\5c6e8cac6a80d68180739ef5b115acf0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2f6ed9795331cc1ede1f9870a971d030\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2f6ed9795331cc1ede1f9870a971d030\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hung\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hung\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hung\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\8517b4ea53ada44039970e3a84c738d2\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\8517b4ea53ada44039970e3a84c738d2\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\1df862b06ec1c57b89a2b314abbf0365\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\1df862b06ec1c57b89a2b314abbf0365\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\21d6fe485a5a07137464423398f2002e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\21d6fe485a5a07137464423398f2002e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\69796f31709176c5c8b8b3d7af3c1100\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\69796f31709176c5c8b8b3d7af3c1100\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\b4d43cd5969b438d7092c10f7975c44d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\b4d43cd5969b438d7092c10f7975c44d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hung\.gradle\caches\transforms-3\44d934f799610cf9ccecb601de0afcd3\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hung\.gradle\caches\transforms-3\44d934f799610cf9ccecb601de0afcd3\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\6f956cc784c35aba29b025c91ce524df\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\hung\.gradle\caches\transforms-3\6f956cc784c35aba29b025c91ce524df\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\68d33b01b2d07ab9b78ce0a2bd4e8463\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\hung\.gradle\caches\transforms-3\68d33b01b2d07ab9b78ce0a2bd4e8463\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\hung\.gradle\caches\transforms-3\5f2325a1701118ab9aa8da9b0206e09d\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\hung\.gradle\caches\transforms-3\5f2325a1701118ab9aa8da9b0206e09d\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hung\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hung\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hung\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\20a644b62baf785bb02e4625e75762e3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\20a644b62baf785bb02e4625e75762e3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\hung\.gradle\caches\transforms-3\07e7f0122cc3106fdaf176d2ba87eda4\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\hung\.gradle\caches\transforms-3\07e7f0122cc3106fdaf176d2ba87eda4\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hung\Downloads\datn_tuyen-master\datn_tuyen-master\s_shop_mobile\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:13:21-70
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:17:13-79
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:17:21-76
+activity#com.github.dhaval2404.imagepicker.ImagePickerActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:24:13-52
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:23:13-81
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:27:13-60
+provider#com.github.dhaval2404.imagepicker.ImagePickerFileProvider
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:33:13-72
+	android:exported
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:32:13-85
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+	android:resource
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\hung\.gradle\caches\transforms-3\71c9b3a78431349d546470985d78a5ee\transformed\imagepicker-2.1\AndroidManifest.xml:37:17-67
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hung\.gradle\caches\transforms-3\ce44685574efb15c925489de3f1c6f34\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\hung\.gradle\caches\transforms-3\5646ce702db7ac78ef9ffda6cc08541a\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\hung\.gradle\caches\transforms-3\4742f4a67bade92c27f574e9f6341968\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\hung\.gradle\caches\transforms-3\74e63c32efe7a54f40113a3eb533c334\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hung\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\hung\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.s_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.s_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\hung\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\hung\.gradle\caches\transforms-3\04f347238ae41daa721c53e4e6b4b2ba\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hung\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
